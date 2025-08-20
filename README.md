@@ -91,7 +91,7 @@ Tested with the following boards:
 ### Library Dependencies
 - No external dependencies required
 - Pure Arduino framework compatibility
-```
+
 
 ### Code Style
 This project follows Arduino API style guidelines with:
