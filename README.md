@@ -1,5 +1,9 @@
 # Hello-Aurdino
 
+<p align="center">
+  <img src="docs/images/demo-setup.png" alt="hello-aurdino demo setup" width="500"/>
+</p>
+
 [![Arduino](https://img.shields.io/badge/Arduino-ready-informational)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Build](https://img.shields.io/github/actions/workflow/status/USER/hello-aurdino/ci.yml?label=CI)](#)
