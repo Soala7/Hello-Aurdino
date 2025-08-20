@@ -56,7 +56,7 @@ Hello Arduino is a professionally structured starter project designed to help be
 - Open examples from `File → Examples → hello-arduino`
 
 
-```
+
 
 ## 🎯 Examples
 
