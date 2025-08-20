@@ -1,7 +1,7 @@
 # Hello-Aurdino
 
 <p align="center">
-  <img src="docs/images/demo-setup.png" alt="hello-aurdino demo setup" width="500"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" width="40"/>
 </p>
 
 [![Arduino](https://img.shields.io/badge/Arduino-ready-informational)](#)
@@ -20,16 +20,14 @@ A minimal, well-structured Arduino starter that shows clean code style, simple s
 
 ---
 
-## 🛠️ Quickstart
+## ⚙️ Setup
+### Requirements
+- Arduino IDE (latest) or [PlatformIO](https://platformio.org/)
+- Arduino board (Uno/Nano/Mega — tested on Uno)
+- USB cable to connect board to PC
+
+### Installation
 ```bash
-# 1) Clone
+# Clone this repository
 git clone https://github.com/USER/hello-aurdino.git
 cd hello-aurdino
-
-# 2) (Option A) Arduino IDE
-#   - Open examples/BlinkSerial/BlinkSerial.ino
-#   - Select your board & port, then Upload
-
-# 2) (Option B) PlatformIO (recommended)
-#   - Install VS Code + PlatformIO extension
-#   - pio run -t upload
